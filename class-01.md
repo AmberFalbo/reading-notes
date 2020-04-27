@@ -4,7 +4,8 @@
 * Chapter 1 - Structure
 * Chapter 8 - Extra Markup
 * Chapter 17 - HTML5 Layout
-* Chapter 18 - Process & Design
+* Chapter 18 - Process & Design <br>
+
 **JavaScript & jQuery**
 * Chapter 1 - The ABC of Programming
 
