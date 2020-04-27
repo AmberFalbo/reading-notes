@@ -10,7 +10,7 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 
 ### **Daily Reading Assignments:**
 ### Week 1
-- [Read: 01 - Introdoctory HTML and JavaScript]()
+- [Read: 01 - Introdoctory HTML and JavaScript](./reading-notes/class-01.md)
 - Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 - Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 - Read: 04 - HTML Links, CSS Color & Text
@@ -28,7 +28,7 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 - Read: 14a - CSS Transforms, Transitions, and Animations
 - Read: 14b - What Google Learned About Terms
 
-![GitHubMascot](https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png)
+![GitHubMascot](https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png "githubcat")
 
 ```
 also I love the GitHub Mascot!
