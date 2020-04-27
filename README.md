@@ -11,7 +11,7 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 ### **Daily Reading Assignments:**
 ### Week 1
 - [Read: 01 - Introdoctory HTML and JavaScript](./class-01.md)
-- Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+- [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](./class-02.md)
 - Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 - Read: 04 - HTML Links, CSS Color & Text
 - Read: 05 - HTML Images; CSS Color & Text
