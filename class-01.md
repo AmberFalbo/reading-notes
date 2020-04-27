@@ -1,4 +1,4 @@
-# Read: 01 - 
+# Read: 01 - Intoductory HTML and JavaScript
 
 **HTML & CSS**
 * Chapter 1 - Structure
@@ -20,7 +20,7 @@ The building of your skeleton!
 * Tags act like containers!
 
 
-![dino skeleton](https://svgsilh.com/svg/2525420.svg)
+![dino skeleton](https://cdn8.picryl.com/photo/1895/12/31/skeleton-from-manual-of-geology-treating-of-the-principles-of-the-science-with-e167a1-1024.jpg)
 
 ## **Extra Markup** *(chapter 8)*
 
@@ -69,7 +69,7 @@ The building of your skeleton!
 * Introducing a new set of elements that help define the structure of your page.
   
     
-![elements](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBD6qRRURzXMupLQ9bd4SDsRvjiJebntbB2C6f67G24fqNDlXd&usqp=CAU)
+![elements](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROdIvUmb9yr9pRujQLBFONycQLT-Ykf_n_QgvJ44U14VmszhAt&usqp=CAU)
 
 
 ## **Process & Design** *(chapter 18)*
