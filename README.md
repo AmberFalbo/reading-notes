@@ -33,3 +33,6 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 ```
 also I love the GitHub Mascot!
 ```
+
+## Daily Notes *(they are a bit messy)*
+- [Day 1 Notes (4-27-20)](./dailyNotes/day1Notes.md)
