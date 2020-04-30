@@ -2,11 +2,13 @@
 
 ### Readings:
 **HTML & CSS**
+>Jon Duckett
 - ch.3 - Lists (pp. 62-73)
 - ch.13 - Boxes (pp. 300-329)
 <br>
 
 **JavaScript & jQuery**
+>Jon Duckett
 - ch.4 - Decisions and Loops "from switch statements on" (pp. 162-182)
 
 
