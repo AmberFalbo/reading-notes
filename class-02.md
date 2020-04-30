@@ -1,4 +1,4 @@
-# Read: 01 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+# Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
 ### Readings:
 **HTML & CSS**
