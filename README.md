@@ -13,7 +13,7 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 - [Read: 01 - Introdoctory HTML and JavaScript](./class-01.md)
 - [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](./class-02.md)
 - [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](./class-03.md)
-- Read: 04 - HTML Links, CSS Color & Text
+- [Read: 04 - HTML Links, CSS Color & Text](.class-04.md)
 - Read: 05 - HTML Images; CSS Color & Text
 ### Week 2
 - Read: 06 - JS Object Literals; The DOM
@@ -36,3 +36,6 @@ also I love the GitHub Mascot!
 
 ## Daily Notes *(they are a bit messy)*
 - [Day 1 Notes (4-27-20)](./dailyNotes/day1Notes.md)
+- [Day 2 Notes (4-28-20)](./dailyNotes/day2Notes.md)
+- [Day 3 Notes (4-29-20)](./dailyNotes/day3Notes.md)
+- [Day 4 Notes (4-30-20)](./dailyNotes/day4Notes.md)
