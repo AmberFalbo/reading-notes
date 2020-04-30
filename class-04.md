@@ -3,6 +3,7 @@
 ### Readings:
 **HTML & CSS**
 >Jon Duckett
+
 - ch.4 - Links (pp.74-93)
 - ch.15 - Layout (pp.358-404)
   - mainly focus on corconcepts (pp.358-364) use examples on from [the website that accompanies the textbook.](http://htmlandcssbook.com/code-samples/chapter-15/)
@@ -10,6 +11,7 @@
 
 **JavaScript & jQuery**
 >Jon Duckett
+
 - ch.3 (first part) - Functions, Methods, and Objects (pp.86-99 ONLY)
 
 
