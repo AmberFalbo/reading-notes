@@ -1,3 +1,6 @@
+# class 01 - april 27th 2020
+
+
 Tech is in everything and you can apply that to anything 
 - fast pased cirriculum
 - changing cirriculum all the time to keep up with the times!
