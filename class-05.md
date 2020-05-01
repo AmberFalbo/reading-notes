@@ -17,7 +17,7 @@
 Chapter 5 - Images
 <br>
 **Main Points**
-- The ` < img > ` element is used to add images to a web page.
+- The `< img >` element is used to add images to a web page.
 - You must alsways specify an ` src ` atrribute to indicate the source of an image and an ` alt ` attribute to describe the content of an image.
 - You should save image at the size you will be using them on the web page and in the appropiate format.
 - Photographs are best saved as `JPEGs`; illustrations or logos that use flat colors are better saved as `GIFs`.
