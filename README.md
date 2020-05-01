@@ -8,7 +8,10 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 ~~**NEVER GIVE UP**~~
 
 
-### **Daily Reading Assignments:**
+## **Daily Reading Assignments:**
+
+**Notes at the bottom of page go hand in hand with the readings and have many examples for reference.**
+
 ### Week 1
 - [Read: 01 - Introdoctory HTML and JavaScript](./class-01.md)
 - [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](./class-02.md)
