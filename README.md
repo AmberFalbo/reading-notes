@@ -31,10 +31,10 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 - Read: 14a - CSS Transforms, Transitions, and Animations
 - Read: 14b - What Google Learned About Terms
 
-![GitHubMascot](https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png "githubcat")
+![weird cats](https://www.publicdomainpictures.net/pictures/290000/velka/cat-three-victorian-die-cut-cats.jpg "wierd cats")
 
 ```
-also I love the GitHub Mascot!
+I love cats if you needed to know!
 ```
 
 ## Daily Notes *(they are a bit messy)*
