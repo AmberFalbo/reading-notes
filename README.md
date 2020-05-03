@@ -43,3 +43,7 @@ I love cats if you needed to know!
 - [Day 3 Notes (4-29-20)](./dailyNotes/day3Notes.md)
 - [Day 4 Notes (4-30-20)](./dailyNotes/day4Notes.md)
 - Day 5 Notes (5-1-20)
+
+## Fun Labs!
+
+- [CSS Selector Game (1-32)Passed](./labs/lab05C.md)
