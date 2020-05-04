@@ -342,6 +342,7 @@ hello bob smith
 ```
 
 Function Declaration
+
 ```
 function hello(firstName, lastName){
   var fullName = firstName + ' ' + lastName;
@@ -353,7 +354,10 @@ function hello(firstName, lastName){
 var greetingArray = hello('bob', 'smith');
 
 console.log(greetingArray[1]);
+
 ```
+
+<br>
 
 ```
 function sum (a, b){
@@ -362,6 +366,9 @@ function sum (a, b){
 
 sum (4, 6);
 ```
+
+<br>
+
 
 ```
 // funtion declaration
@@ -380,7 +387,11 @@ var sum = function (a, b){
 }
 
 sum (4, 6);
+
 ```
+
+<br>
+
 
 # google fonts
 
@@ -400,10 +411,16 @@ absolute link
 <a href=“http://google.com”> google</a>
 ```
 
+<br>
+
 link to an id
+
 ```
 <a href=“#travel”>Travel</a>
 ```
+
+<br>
+
 
 # DIG IN AND KNOW ABOUT ACCESSIBILITY!!!!
 ## learn about it, helps with getting a job!
@@ -414,6 +431,9 @@ target makes you go to a knew page!
 ```
 <a href=“#travel” taget=“_blank”> travel</a>
 ```
+
+<br>
+
 
 # branching!!
 
