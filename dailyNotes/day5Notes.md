@@ -419,7 +419,10 @@ target makes you go to a knew page!
 
 most important part of gitHub
 
+<br>
+
 ```
+
 1.
 in Terminal
 git checkout -b"name of branch"
