@@ -19,7 +19,7 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 - [Read: 04 - HTML Links, CSS Color & Text](./class-04.md)
 - [Read: 05 - HTML Images; CSS Color & Text](./class-05.md)
 ### Week 2
-- Read: 06 - JS Object Literals; The DOM
+- [Read: 06 - JS Object Literals; The DOM](./class-06.md)
 - Read: 07 - HTML Tables; JS Constructor Functions
 - Read: 08 - More CSS Layout
 - Read: 09 - Forms and Events
@@ -43,6 +43,30 @@ I love cats if you needed to know!
 - [Day 3 Notes (4-29-20)](./dailyNotes/day3Notes.md)
 - [Day 4 Notes (4-30-20)](./dailyNotes/day4Notes.md)
 - [Day 5 Notes (5-1-20)](./dailyNotes/day5Notes.md)
+- [Day 6 Notes (5-4-20)](./dailyNotes/day6Notes.md)
+- [Day 7 Notes (5-5-20)](./dailyNotes/day7Notes.md)
+- [Day 8 Notes (5-6-20)](./dailyNotes/day8Notes.md)
+- [Day 9 Notes (5-7-20)](./dailyNotes/day9Notes.md)
+- [Day 10 Notes (5-8-20)](./dailyNotes/day10Notes.md)
+- [Day 11 Notes (5-11-20)]()
+- [Day 12 Notes (5-12-20)]()
+
+
+
+## Power Hour Reports
+- [Power Hour Report 1 (5-1-20) Alaska Airlines](./powerHour201/pHreport1.md)
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
+
+
+
 
 ## Fun Labs!
 
