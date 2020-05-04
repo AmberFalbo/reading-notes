@@ -25,7 +25,11 @@ Chapter 3 - Object Literals (pp.100-105)
 - JavaScript also has several built-in objects suchas `String`, `Number`, Math`, and `Date`. Their properties and methods offer functionality that help you write scripts.
 - Arrays and objects can be used to create complex data sets (and both an contain the other).
 
+<br>
 
+
+
+<br>
 
 Chapter 5 - Document Object (pp.183-242)
 <br>
@@ -65,4 +69,4 @@ The hardest part about writing code?
   1. Make the problem domain easier.
   1. Gt better at understanding th problem domain.
 
-
+The hardest part is not having enough information when working with the problem domain and that will make the whole process much much harder to  complete. Having others tell you where there are tested problems and what needs work. Having all the specs is key! Working with a problem domain is like a jigsaw puzzle and you need all the important pieces to start first.
