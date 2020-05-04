@@ -38,3 +38,31 @@ Chapter 5 - Document Object (pp.183-242)
 - An element node can contain multiple text nodes and child elements that are siblings of each other.
 - In older browsers, implementation of the `DOM` is inconsistent (and is a popular reason for using jQuery).
 - Browsers offer tools for viewing the DOM tree.
+
+## **Article** <br>
+
+[Understanding the problem domain is the hardest part of programming.](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming) <br>
+The hardest part about writing code?
+  - Learning a new technology
+  - Naming things
+  - Debugging
+  - Fixing bugs
+  - Making sofware maintainable
+
+**But really the biggest problem is learning the problem domain.**
+
+- A familiar problem.
+
+- Why prolem domains are hard.
+  1. Figure out what the major components of the picture are
+  1. Sort the pieces by color or component
+  1. Put together all the border pieces
+  1. Put together each component of the picture from  the piles you created
+
+- Programming is easy if you understand the problem domain.
+
+- What can you do about it?
+  1. Make the problem domain easier.
+  1. Gt better at understanding th problem domain.
+
+
