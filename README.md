@@ -21,7 +21,7 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 ### Week 2
 - [Read: 06 - JS Object Literals; The DOM](./class-06.md)
 - [Read: 07 - HTML Tables; JS Constructor Functions](./class-07.md)
-- Read: 08 - More CSS Layout
+- [Read: 08 - More CSS Layout](./class-08.md)
 - Read: 09 - Forms and Events
 - Read: 10 - JS Debugging
 ### Week 3
