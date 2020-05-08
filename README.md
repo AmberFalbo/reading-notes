@@ -23,7 +23,7 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 - [Read: 07 - HTML Tables; JS Constructor Functions](./class-07.md)
 - [Read: 08 - More CSS Layout](./class-08.md)
 - [Read: 09 - Forms and Events](./class-09.md)
-- Read: 10 - JS Debugging
+- [Read: 10 - JS Debugging](./class-10.md)
 ### Week 3
 - Read: 11 - Assorted Topics
 - Read: 12 - Docs for the HTML < canvas > Element 
