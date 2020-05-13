@@ -27,7 +27,7 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 ### Week 3
 - [Read: 11 - Assorted Topics](./class-11.md)
 - [Read: 12 - Docs for the HTML < canvas > Element](./class-12.md)
-- Read: 13 - Local Storage
+- [Read: 13 - Local Storage](./class-13.md)
 - Read: 14a - CSS Transforms, Transitions, and Animations
 - Read: 14b - What Google Learned About Terms
 
