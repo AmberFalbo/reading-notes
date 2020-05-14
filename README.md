@@ -28,8 +28,8 @@ Welcome to my page! This is a space of learning and growth as I explore 201 with
 - [Read: 11 - Assorted Topics](./class-11.md)
 - [Read: 12 - Docs for the HTML < canvas > Element](./class-12.md)
 - [Read: 13 - Local Storage](./class-13.md)
-- Read: 14a - CSS Transforms, Transitions, and Animations
-- Read: 14b - What Google Learned About Terms
+- [Read: 14a - CSS Transforms, Transitions, and Animations](./class-14a.md)
+- [Read: 14b - What Google Learned About Terms](./class-14b.md)
 
 ![weird cats](https://www.publicdomainpictures.net/pictures/290000/velka/cat-three-victorian-die-cut-cats.jpg "wierd cats")
 
