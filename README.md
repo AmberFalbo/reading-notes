@@ -55,19 +55,24 @@ I love cats if you needed to know!
 
 ## Power Hour Reports
 - [Power Hour Report 1 (5-1-20) Alaska Airlines](./powerHour201/pHreport1.md)
-- 
-- 
-- 
-- 
-- 
-- 
-
-
-
-
-
 
 
 ## Fun Labs!
 
 - [CSS Selector Game (1-32)Passed](./labs/lab05C.md)
+
+br
+br
+
+# Code 301 Reading Notes
+## Amber's Journey in Code 301: Intermediate Software Development
+
+## **Daily Reading Assignments:**
+
+**Notes at the bottom of page go hand in hand with the readings and have many examples for reference.**
+
+### Week 1
+- [Read: 01 - SMACSS and Responsive Web Design](./301ReadingNotes/read-01.md)
+- [Read: 02 - jQuery, Events, and The DOM. Pair Programming](./301ReadingNotes/read-02.md)
+### Week 2
+### Week 3
