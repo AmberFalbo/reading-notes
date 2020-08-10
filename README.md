@@ -61,11 +61,11 @@ I love cats if you needed to know!
 
 - [CSS Selector Game (1-32)Passed](./labs/lab05C.md)
 
-br
-br
+<br>
+<br>
 
 # Code 301 Reading Notes
-## Amber's Journey in Code 301: Intermediate Software Development
+## Code 301: Intermediate Software Development
 
 ## **Daily Reading Assignments:**
 
@@ -76,3 +76,14 @@ br
 - [Read: 02 - jQuery, Events, and The DOM. Pair Programming](./301ReadingNotes/read-02.md)
 ### Week 2
 ### Week 3
+
+<br>
+<br>
+
+# Code 401 Reading Notes
+## Code 401: Full-Stack JavaScript
+
+### prework
+
+[Engineering Topics](./engineeringTopics.md)
+
