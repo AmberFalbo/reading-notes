@@ -87,3 +87,4 @@ I love cats if you needed to know!
 
 [Engineering Topics](./engineeringTopics.md)
 
+[Read:Class 01](./401day01.md)
