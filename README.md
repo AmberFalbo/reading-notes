@@ -83,8 +83,8 @@ I love cats if you needed to know!
 # Code 401 Reading Notes
 ## Code 401: Full-Stack JavaScript
 
-### prework
 
-[Engineering Topics](./engineeringTopics.md)
+- [Engineering Topics](./engineeringTopics.md)
 
-[Read:Class 01](./401day01.md)
+- [Read:Class 01](./401day01.md)
+- [Read:Class 02](./401day02.md)
