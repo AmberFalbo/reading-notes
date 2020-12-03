@@ -1,90 +1,48 @@
-# Code 201 Reading Notes
-## Amber's Journey in Code 201: Foundations of Software Development
+# Amber's Reading Notes
+### Hello out there to my new world of coding! My previous experience with code was back in the days of **MySpace** *Oh how fun making those pages were, sigh* but now this is the **real deal**! I'm pumped and terrified.
 
-Welcome to my page! This is a space of learning and growth as I explore 201 with labs, asssignments and reading notes. 
+## **Crying and Coding**
+
+
+>This has been the most raw I've felt since I had to cut 200 onions 1/4 inch dice a million years ago in Culinary School but this is worth it!!
+
+[401 notes](./401/401-index.md)<br>
+[301 notes](./301/301-index.md)<br>
+[201 notes](./201/201-index.md)<br>
+[102 notes](./102/102-index.md)<br>
+[misc notes](./misc/misc-index.md)<br>
+
+
+
+
+
+Welcome to my page! This is a space of learning and growth as I explore 201 with labs, assignments and reading notes. 
 
 >Failure is just success in progress.
 
 ~~**NEVER GIVE UP**~~
 
 
-## **Daily Reading Assignments:**
-
-**Notes at the bottom of page go hand in hand with the readings and have many examples for reference.**
-
-### Week 1
-- [Read: 01 - Introdoctory HTML and JavaScript](./class-01.md)
-- [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](./class-02.md)
-- [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](./class-03.md)
-- [Read: 04 - HTML Links, CSS Color & Text](./class-04.md)
-- [Read: 05 - HTML Images; CSS Color & Text](./class-05.md)
-### Week 2
-- [Read: 06 - JS Object Literals; The DOM](./class-06.md)
-- [Read: 07 - HTML Tables; JS Constructor Functions](./class-07.md)
-- [Read: 08 - More CSS Layout](./class-08.md)
-- [Read: 09 - Forms and Events](./class-09.md)
-- [Read: 10 - JS Debugging](./class-10.md)
-### Week 3
-- [Read: 11 - Assorted Topics](./class-11.md)
-- [Read: 12 - Docs for the HTML < canvas > Element](./class-12.md)
-- [Read: 13 - Local Storage](./class-13.md)
-- [Read: 14a - CSS Transforms, Transitions, and Animations](./class-14a.md)
-- [Read: 14b - What Google Learned About Terms](./class-14b.md)
-
 ![weird cats](https://www.publicdomainpictures.net/pictures/290000/velka/cat-three-victorian-die-cut-cats.jpg "wierd cats")
 
 ```
 I love cats if you needed to know!
 ```
+### **just keep swimming** 
+1. Don't give up
+1. Look forward
+1. Learn from mistakes
 
-## Daily Notes *(they are a bit messy)*
-- [Day 1 Notes (4-27-20)](./dailyNotes/day1Notes.md)
-- [Day 2 Notes (4-28-20)](./dailyNotes/day2Notes.md)
-- [Day 3 Notes (4-29-20)](./dailyNotes/day3Notes.md)
-- [Day 4 Notes (4-30-20)](./dailyNotes/day4Notes.md)
-- [Day 5 Notes (5-1-20)](./dailyNotes/day5Notes.md)
-- [Day 6 Notes (5-4-20)](./dailyNotes/day6Notes.md)
-- [Day 7 Notes (5-5-20)](./dailyNotes/day7Notes.md)
-- [Day 8 Notes (5-6-20)](./dailyNotes/day8Notes.md)
-- [Day 9 Notes (5-7-20)](./dailyNotes/day9Notes.md)
-- [Day 10 Notes (5-8-20)](./dailyNotes/day10Notes.md)
-- [Day 11 Notes (5-11-20)]()
-- [Day 12 Notes (5-12-20)]()
+~~Some days will be turture but~~
+
+**Remember**
+
+## There is always _chocolate_ **and** ***CATS***
+
+![babyyoda](https://cdn.pixabay.com/photo/2019/12/20/17/15/yoda-4708878_960_720.jpg)
 
 
+```
+also Baby Yoda is the cutest.
+```
 
-## Power Hour Reports
-- [Power Hour Report 1 (5-1-20) Alaska Airlines](./powerHour201/pHreport1.md)
-
-
-## Fun Labs!
-
-- [CSS Selector Game (1-32)Passed](./labs/lab05C.md)
-
-<br>
-<br>
-
-# Code 301 Reading Notes
-## Code 301: Intermediate Software Development
-
-## **Daily Reading Assignments:**
-
-**Notes at the bottom of page go hand in hand with the readings and have many examples for reference.**
-
-### Week 1
-- [Read: 01 - SMACSS and Responsive Web Design](./301ReadingNotes/read-01.md)
-- [Read: 02 - jQuery, Events, and The DOM. Pair Programming](./301ReadingNotes/read-02.md)
-### Week 2
-### Week 3
-
-<br>
-<br>
-
-# Code 401 Reading Notes
-## Code 401: Full-Stack JavaScript
-
-
-- [Engineering Topics](./engineeringTopics.md)
-
-- [Read:Class 01](./401day01.md)
-- [Read:Class 02](./401day02.md)
