@@ -5,7 +5,7 @@
 
 ## 401 Reading Notes
 [pre-work](prework.md)<br>
-[class-01](class-01.md)<br>
+[class-01: Prepping for class](class-01.md)<br>
 [class-02](class-02.md)<br>
 [class-03](class-03.md)<br>
 [class-04](class-04.md)<br>
