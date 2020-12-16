@@ -8,7 +8,7 @@
 [class-01: Prepping for class](class-01.md)<br>
 [class-02: Testing and Modules](class-02.md)<br>
 [class-03: FileIO & Exceptions](class-03.md)<br>
-[class-04](class-04.md)<br>
+[class-04: Objects, Classes, Recursion & Pytest](class-04.md)<br>
 [class-05](class-05.md)<br>
 [class-06](class-06.md)<br>
 [class-07](class-07.md)<br>
