@@ -9,7 +9,7 @@
 [class-02: Testing and Modules](class-02.md)<br>
 [class-03: FileIO & Exceptions](class-03.md)<br>
 [class-04: Objects, Classes, Recursion & Pytest](class-04.md)<br>
-[class-05](class-05.md)<br>
+[class-05: Linked Lists](class-05.md)<br>
 [class-06](class-06.md)<br>
 [class-07](class-07.md)<br>
 [class-08](class-08.md)<br>
