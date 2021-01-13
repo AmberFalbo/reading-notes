@@ -14,7 +14,7 @@
 [class-07: Game of Greed 2](class-07.md)<br>
 [class-08: Game of Greed 3](class-08.md)<br>
 [class-09: Game of Greed 4 (Magic,Special Methods)](class-09.md)<br>
-[class-10](class-10.md)<br>
+[class-10: Stacks and Queues](class-10.md)<br>
 [class-11](class-11.md)<br>
 [class-12](class-12.md)<br>
 [class-13](class-13.md)<br>
