@@ -16,7 +16,7 @@
 [class-09: Game of Greed 4 (Magic,Special Methods)](class-09.md)<br>
 [class-10: Stacks and Queues](class-10.md)<br>
 [class-11: Data Analysis](class-11.md)<br>
-[class-12](class-12.md)<br>
+[class-12: Pandas](class-12.md)<br>
 [class-13](class-13.md)<br>
 [class-14](class-14.md)<br>
 [class-15](class-15.md)<br>
