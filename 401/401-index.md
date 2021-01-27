@@ -18,7 +18,7 @@
 [class-11: Data Analysis](class-11.md)<br>
 [class-12: Pandas](class-12.md)<br>
 [class-13: Linear Regressions](class-13.md)<br>
-[class-14](class-14.md)<br>
+[class-14: Data Visualization](class-14.md)<br>
 [class-15](class-15.md)<br>
 [class-16](class-16.md)<br>
 [class-17](class-17.md)<br>
