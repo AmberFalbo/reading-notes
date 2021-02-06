@@ -22,7 +22,7 @@
 [class-15: Trees](class-15.md)<br>
 [class-16: (Told it was put on hold)](class-16.md)<br>
 [class-17: Web Scraping](class-17.md)<br>
-[class-18](class-18.md)<br>
+[class-18: Cryptography](class-18.md)<br>
 [class-19](class-19.md)<br>
 [class-20](class-20.md)<br>
 
