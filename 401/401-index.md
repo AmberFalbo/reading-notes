@@ -24,7 +24,25 @@
 [class-17: Web Scraping](class-17.md)<br>
 [class-18: Cryptography](class-18.md)<br>
 [class-19: Automation](class-19.md)<br>
-[class-20](class-20.md)<br>
+[class-26: Intro into Django](class-26.md)<br>
+[class-27:](class-27.md)<br>
+[class-28:](class-28.md)<br>
+[class-29:](class-29.md)<br>
+[class-30:](class-30.md)<br>
+[class-31:](class-31.md)<br>
+[class-32:](class-32.md)<br>
+[class-33:](class-33.md)<br>
+[class-34:](class-34.md)<br>
+[class-35:](class-35.md)<br>
+[class-36:](class-36.md)<br>
+[class-37:](class-37.md)<br>
+[class-38:](class-38.md)<br>
+[class-39:](class-39.md)<br>
+[class-40:](class-40.md)<br>
+[class-41:](class-41.md)<br>
+[class-42:](class-42.md)<br>
+[class-43:](class-43.md)<br>
+[class-44:](class-44.md)<br>
 
 # 401 Daily Notes
 [notes-01](dailynotes/daily-01.md)<br>
