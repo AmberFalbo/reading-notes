@@ -25,7 +25,7 @@
 [class-18: Cryptography](class-18.md)<br>
 [class-19: Automation](class-19.md)<br>
 [class-26: Intro into Django](class-26.md)<br>
-[class-27:](class-27.md)<br>
+[class-27: Django Models](class-27.md)<br>
 [class-28:](class-28.md)<br>
 [class-29:](class-29.md)<br>
 [class-30:](class-30.md)<br>
