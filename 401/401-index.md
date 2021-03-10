@@ -27,8 +27,8 @@
 [class-26: Intro into Django](class-26.md)<br>
 [class-27: Django Models](class-27.md)<br>
 [class-28: Django CRUD and Forms](class-28.md)<br>
-[class-29:](class-29.md)<br>
-[class-30:](class-30.md)<br>
+[class-29: Django Custom User](class-29.md)<br>
+<!-- [class-30:](class-30.md)<br>
 [class-31:](class-31.md)<br>
 [class-32:](class-32.md)<br>
 [class-33:](class-33.md)<br>
@@ -54,6 +54,6 @@
 [notes-07](dailynotes/daily-07.md)<br>
 [notes-08](dailynotes/daily-08.md)<br>
 [notes-09](dailynotes/daily-09.md)<br>
-[notes-10](dailynotes/daily-10.md)<br>
+[notes-10](dailynotes/daily-10.md)<br> -->
 
 <!-- <3  -->
