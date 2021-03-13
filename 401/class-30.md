@@ -34,6 +34,10 @@ Introduction to hash tables
 Key: Ethel
 Value: phone #
 
+    Hash(Key) -> index
+O   Hash(Ethel) -> 3
+[]  Hash(Person) -> 1
+()  Hash(Somebody) -> 3 (how to avoid collision is to create a linked list off of the indexes) 
 
 ## Read [basics of hash tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
 
