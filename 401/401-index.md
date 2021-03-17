@@ -29,7 +29,7 @@
 [class-28: Django CRUD and Forms](class-28.md)<br>
 [class-29: Django Custom User](class-29.md)<br>
 [class-30: Hash Tables](class-30.md)<br>
-<!-- [class-31:](class-31.md)<br> -->
+[class-31: Django REST Framework & Docker](class-31.md)<br>
 <!-- [class-32:](class-32.md)<br> -->
 <!-- [class-33:](class-33.md)<br> -->
 <!-- [class-34:](class-34.md)<br> -->
