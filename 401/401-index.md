@@ -34,7 +34,7 @@
 [class-33: Authentication & Production Server](class-33.md)<br>
 [class-34: API Deployment](class-34.md)<br>
 [class-35: Graphs](class-35.md)<br>
-<!-- [class-36:](class-36.md)<br> -->
+[class-36: DSA Review/Whiteboard Prep](class-36.md)<br>
 <!-- [class-37:](class-37.md)<br> -->
 <!-- [class-38:](class-38.md)<br> -->
 <!-- [class-39:](class-39.md)<br> -->
