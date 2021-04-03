@@ -21,8 +21,15 @@ Write Pseudocode and Ask If It Makes Sense.<br>
 Write the Actual Code and Ask if it Looks Good.<br>
 
 
-# [6 Tips](https://blog.usejournal.com/6-tips-to-ace-a-whiteboard-programming-interview-f06c1b378bc6)
+# [6(7) Tips](https://blog.usejournal.com/6-tips-to-ace-a-whiteboard-programming-interview-f06c1b378bc6)
 
+1) Take a few minutes.
+2) Write down the steps of the solution.
+3) Write pseudocode first.
+4) Don’t sweat the small stuff.
+5) Sit down. Be humble.
+6) Come prepared.
+7) Review your work.
 
 
 # [Engineering Interview Process Deconstructed](https://www.youtube.com/watch?v=KdXAUst8bdo&ab_channel=HackerRank)
