@@ -104,7 +104,18 @@ React doesn’t require using JSX, but most people find it helpful as a visual a
 
 # Tailwind CSS
 ## [Utility First CSS](https://tailwindcss.com/docs/utility-first)
+
 ## [Tailwind in a 15 minute video!](https://www.youtube.com/watch?v=6zIuAyLZPH0&ab_channel=BetterDev)
+
+A different style of CSS Framework, a utility-first CSS framework for rapidly building custom designs. 
+
+[My Tailwind Practice on CodePen](https://codepen.io/amberfalbo/pen/NWdaojP?editors=1100)
+
+also download Tailwind
+npm/poetry/pip install/add tailwindcss
+- control bundle sizes
+
+
 
 
 
