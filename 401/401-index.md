@@ -36,7 +36,7 @@
 [class-35: Graphs](class-35.md)<br>
 [class-36: DSA Review/Whiteboard Prep](class-36.md)<br>
 [class-37: React 1](class-37.md)<br>
-<!-- [class-38:](class-38.md)<br> -->
+[class-38: React 2](class-38.md)<br>
 <!-- [class-39:](class-39.md)<br> -->
 <!-- [class-40:](class-40.md)<br> -->
 <!-- [class-41:](class-41.md)<br> -->
