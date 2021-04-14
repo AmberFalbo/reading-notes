@@ -45,8 +45,8 @@ Videos
 
 Bookmark/Skim
 ## [React - Comprehensive Guide](https://ui.dev/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
-## [Heroicons](https://heroicons.com/
-)
+
+## [Heroicons](https://heroicons.com/)
 
 <br>
 <br>
