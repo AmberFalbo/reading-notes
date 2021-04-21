@@ -38,8 +38,8 @@
 [class-37: React 1](class-37.md)<br>
 [class-38: React 2](class-38.md)<br>
 [class-39: React 3](class-39.md)<br>
-<!-- [class-40:](class-40.md)<br> -->
-<!-- [class-41:](class-41.md)<br> -->
+[class-40: Career Coaching Presentations](class-40.md)<br>
+[class-41: React 4](class-41.md)<br>
 <!-- [class-42:](class-42.md)<br> -->
 <!-- [class-43:](class-43.md)<br> -->
 <!-- [class-44:](class-44.md)<br> -->
